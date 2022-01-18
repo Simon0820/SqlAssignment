@@ -1,0 +1,7 @@
+C:\.NET utb Desktop\CEX\adonet\adonet\bin\Debug\adonet.exe.config
+C:\.NET utb Desktop\CEX\adonet\adonet\bin\Debug\adonet.exe
+C:\.NET utb Desktop\CEX\adonet\adonet\bin\Debug\adonet.pdb
+C:\.NET utb Desktop\CEX\adonet\adonet\obj\Debug\adonet.csproj.AssemblyReference.cache
+C:\.NET utb Desktop\CEX\adonet\adonet\obj\Debug\adonet.csproj.CoreCompileInputs.cache
+C:\.NET utb Desktop\CEX\adonet\adonet\obj\Debug\adonet.exe
+C:\.NET utb Desktop\CEX\adonet\adonet\obj\Debug\adonet.pdb
